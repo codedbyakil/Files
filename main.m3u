@@ -1,0 +1,300 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/PUTHIYA THALAIMURAI.png" group-title="TAMIL MAC",┃TM┃ PUTHIYA THALAIMURAI
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=865000&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ADHTIYA TV.png" group-title="TAMIL MAC",┃TM┃ ADHTIYA TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908551&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ANGEL TV HD.png" group-title="TAMIL MAC",┃TM┃ ANGEL TV HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908552&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/CHUTTI TV.png" group-title="TAMIL MAC",┃TM┃ CHUTTI TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908583&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/COLORS TAMIL HD.png" group-title="TAMIL MAC",┃TM┃ COLORS TAMIL HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908553&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/DD PODHIGAI.png" group-title="TAMIL MAC",┃TM┃ DD PODHIGAI
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908554&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/DD SAPTAGIRI.png" group-title="TAMIL MAC",┃TM┃ DD SAPTAGIRI
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908582&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/DISCOVERY KIDS TAMIL.png" group-title="TAMIL MAC",┃TM┃ DISCOVERY KIDS TAMIL
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908584&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/DISCOVERY WORLD.png" group-title="TAMIL MAC",┃TM┃ DISCOVERY WORLD HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908555&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/FLOWERS TV.png" group-title="TAMIL MAC",┃TM┃ FLOWERS TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908579&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/FOX LIFE HD.png" group-title="TAMIL MAC",┃TM┃ FOX LIFE HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908556&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/HISTORY TV18 HD.png" group-title="TAMIL MAC",┃TM┃ HISTORY TV18 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908557&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/IBC BAKTHI.png" group-title="TAMIL MAC",┃TM┃ IBC BAKTHI
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908575&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/IBC COMEDY.png" group-title="TAMIL MAC",┃TM┃ IBC COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908577&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/IBC TAMIL.png" group-title="TAMIL MAC",┃TM┃ IBC TAMIL
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908576&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/IMAYAM TV.png" group-title="TAMIL MAC",┃TM┃ IMAYAM TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908603&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/JAYA MAX.png" group-title="TAMIL MAC",┃TM┃ JAYA MAX
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908581&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/JAYA MAX.png" group-title="TAMIL MAC",┃TM┃ JAYA MAX
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908596&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/JAYA PLUS.png" group-title="TAMIL MAC",┃TM┃ JAYA PLUS
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908580&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/JAYA TV HD.png" group-title="TAMIL MAC",┃TM┃ JAYA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908558&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/J MOVIES.png" group-title="TAMIL MAC",┃TM┃ J MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908605&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/KTV HD.png" group-title="TAMIL MAC",┃TM┃ KTV HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908559&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/MADHA TV.png" group-title="TAMIL MAC",┃TM┃ MADHA TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908602&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/MAKKAL TV.png" group-title="TAMIL MAC",┃TM┃ MAKKAL TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908592&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/MK TV.png" group-title="TAMIL MAC",┃TM┃ MK TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908599&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/MOON TV.png" group-title="TAMIL MAC",┃TM┃ MOON TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908601&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/NAT GEO WILD HD.png" group-title="TAMIL MAC",┃TM┃ NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908560&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/NATIONAL GEOGRAPHIC HD.png" group-title="TAMIL MAC",┃TM┃ NATIONAL GEOGRAPHIC HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908561&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/NEWS 18 TAMIL NADU.png" group-title="TAMIL MAC",┃TM┃ NEWS 18 TAMIL NADU
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908562&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/POLIMER NEWS.png" group-title="TAMIL MAC",┃TM┃ POLIMER NEWS
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908589&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/POLIMER TV.png" group-title="TAMIL MAC",┃TM┃ POLIMER TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908594&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/PUTHUYUGAM.png" group-title="TAMIL MAC",┃TM┃ PUTHUYUGAM
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908585&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/RAJ DIGITAL PLUS.png" group-title="TAMIL MAC",┃TM┃ RAJ DIGITAL PLUS
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908593&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/RAJ MUSIX.png" group-title="TAMIL MAC",┃TM┃ RAJ MUSIX
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908563&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/RAJ NEWS.png" group-title="TAMIL MAC",┃TM┃ RAJ NEWS
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908590&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/RAJ TV.png" group-title="TAMIL MAC",┃TM┃ RAJ TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908564&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SAHANA TV.png" group-title="TAMIL MAC",┃TM┃ SAHANA TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908597&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SALVATION TV.png" group-title="TAMIL MAC",┃TM┃ SALVATION TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908598&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SATHIYAM TV.png" group-title="TAMIL MAC",┃TM┃ SATHIYAM TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908591&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SONY BBC EARTH HD.png" group-title="TAMIL MAC",┃TM┃ SONY BBC EARTH HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908565&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SONY YAY.png" group-title="TAMIL MAC",┃TM┃ SONY YAY
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908587&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/STAR VIJAY HD.png" group-title="TAMIL MAC",┃TM┃ STAR VIJAY HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908566&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SUN LIFE.png" group-title="TAMIL MAC",┃TM┃ SUN LIFE
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908567&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SUN MUSIC HD.png" group-title="TAMIL MAC",┃TM┃ SUN MUSIC HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908568&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SUN NEWS.png" group-title="TAMIL MAC",┃TM┃ SUN NEWS
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908569&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/SUN TV HD.png" group-title="TAMIL MAC",┃TM┃ SUN TV HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908570&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/TAMILAN TV.png" group-title="TAMIL MAC",┃TM┃ TAMILAN TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908600&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/TATA SKY TAMIL CINEMA.png" group-title="TAMIL MAC",┃TM┃ TATA SKY TAMIL CINEMA
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908571&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/THANTHI TV.png" group-title="TAMIL MAC",┃TM┃ THANTHI TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908586&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/TVI HD.png" group-title="TAMIL MAC",┃TM┃ TVI HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908578&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/VALICHAM PLUS.png" group-title="TAMIL MAC",┃TM┃ VALICHAM PLUS
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908604&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/VASANTH TV.png" group-title="TAMIL MAC",┃TM┃ VASANTH TV
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908572&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/VIJAY SUPER HD.png" group-title="TAMIL MAC",┃TM┃ VIJAY SUPER HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908573&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ZEE TAMIL FHD.png" group-title="TAMIL MAC",┃TM┃ ZEE TAMIL FHD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908588&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ZEE TAMIL HD.png" group-title="TAMIL MAC",┃TM┃ ZEE TAMIL HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908574&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ZEE THIRAI.png" group-title="TAMIL MAC",┃TM┃ ZEE THIRAI
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908595&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/TOP 250 MOVIES.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ TOP 250 MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734186&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/POPULAR MOVIES.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ POPULAR MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734185&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/EROSNOW CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ EROSNOW CINEMA HD 1
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734184&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/COMEDY CLIP.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ COMEDY CLIP
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734183&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734182&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734181&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734180&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734179&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734178&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734177&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CLASSIC CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CLASSIC CINEMA 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734176&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CINEMA 1.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734175&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CINEMA 9 HD.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CINEMA 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734174&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/MIX CINEMA 1.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ MIX CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734173&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/FANTASY CINEMA 1.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ FANTASY CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734172&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/HORROR CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ HORROR CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734171&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/MUSICAL CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ MUSICAL CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734170&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/ROMANCE CINEMA 1.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ ROMANCE CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/ACTION COMEDY 3.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ ACTION COMEDY  3 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/COMEDY CINEMA 3.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ COMEDY CINEMA 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/DRAMA THRILLER CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ DRAMA THRILLER CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CRIME DRAMA CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CRIME DRAMA CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/DRAMA THRILLER CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ DRAMA CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734164&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/CRIME DRAMA CINEMA.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ CRIME CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734163&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/COMEDY CINEMA 1.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ COMEDY CINEMA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734162&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/ACTION ADVENTURE.png" group-title="TAMIL MAC PREMIUM",┃INDIAN ┃TAMIL┃ ACTION ADVENTURE HD
+http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=734161&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL PREMIUM/ACTION CINEMA 1.png" group-title="TAMIL MAC PREMIUM",┃INDIA
+#EXTINF:-1 tvg-logo="" group-title="TAMIL MAC 2",##### TAMIL #####
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281561&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ktvhd.jpg" group-title="TAMIL MAC 2",TAM - KTV UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281562&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/JAYA-TV-HD.jpeg" group-title="TAMIL MAC 2",TAM - JAYA TV UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281563&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetamil.jpg" group-title="TAMIL MAC 2",TAM - ZEE TAMIL UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281564&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/zeetamil.jpg" group-title="TAMIL MAC 2",TAM - ZEE TAMIL SD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281565&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/suntv.jpg" group-title="TAMIL MAC 2",TAM - SUN TV UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281566&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/starvijay.png" group-title="TAMIL MAC 2",TAM - STAR VIJAY UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281567&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SUN-LIFE-TAMIL.jpg" group-title="TAMIL MAC 2",TAM - SUN LIFE TAMIL
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281568&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/sunmusic.png" group-title="TAMIL MAC 2",TAM - SUN MUSIC UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281569&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SUN-NEWS-TAMIL.jpg" group-title="TAMIL MAC 2",TAM - SUN NEWS TAMIL
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281570&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/angeltv.png" group-title="TAMIL MAC 2",TAM - ANGEL TV UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281571&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/colorshd.png" group-title="TAMIL MAC 2",TAM - COLORS UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281572&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/historytv18.jpg" group-title="TAMIL MAC 2",TAM - HISTORY TV 18 UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281573&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-SAPTAGIRI.png" group-title="TAMIL MAC 2",TAM - DD SAPTAGIRI
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281574&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/discoveryworld.png" group-title="TAMIL MAC 2",TAM - DISCOVERY WORLD UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281575&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ADHTIYA-TV.jpg" group-title="TAMIL MAC 2",TAM - ADHTIYA TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281576&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CHUTTI-TV.jpeg" group-title="TAMIL MAC 2",TAM - CHUTTI TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281579&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/DD-PODHIGAI.png" group-title="TAMIL MAC 2",TAM - DD PODHIGAI
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281580&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/laz.Discovery_kids.png" group-title="TAMIL MAC 2",TAM - DISCOVERY KIDS TAMIL
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281581&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/foxlifehd.png" group-title="TAMIL MAC 2",TAM - FOX LIFE UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281582&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/JAYA-MAX.jpeg" group-title="TAMIL MAC 2",TAM - JAYA MAX
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281584&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/JAYA-PLUS.jpg" group-title="TAMIL MAC 2",TAM - JAYA PLUS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281585&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/J-MOVIES.jpeg" group-title="TAMIL MAC 2",TAM - J MOVIES
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281586&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MADHA-TV.jpeg" group-title="TAMIL MAC 2",TAM - MADHA TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281588&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MADHIMUGHAM-TV.jpeg" group-title="TAMIL MAC 2",TAM - MADHIMUGHAM TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281589&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MAKKAL-TV.jpeg" group-title="TAMIL MAC 2",TAM - MAKKAL TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281590&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MK-TV.jpeg" group-title="TAMIL MAC 2",TAM - MK TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281593&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/MOON-TV.png" group-title="TAMIL MAC 2",TAM - MOON TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281594&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NAMBIKKAI-TV.jpg" group-title="TAMIL MAC 2",TAM - NAMBIKKAI TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281595&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeohd.png" group-title="TAMIL MAC 2",TAM - NAT GEO TAMIL UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281596&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/natgeowildhd.png" group-title="TAMIL MAC 2",TAM - NAT GEO WILD TAMIL UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281597&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-7.png" group-title="TAMIL MAC 2",TAM - NEWS 7
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281598&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/NEWS-18-TAMIL-NADU.jpg" group-title="TAMIL MAC 2",TAM - NEWS 18 TAMIL NADU
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281599&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/POLIMER-NEWS.jpeg" group-title="TAMIL MAC 2",TAM - POLIMER NEWS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281600&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/POLIMER-TV.jpeg" group-title="TAMIL MAC 2",TAM - POLIMER TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281601&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PUTHIYA-THALIMURAI.jpg" group-title="TAMIL MAC 2",TAM - PUTHIYA THALIMURAI
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281602&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/PUTHUYUGAM.jpg" group-title="TAMIL MAC 2",TAM - PUTHUYUGAM
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281603&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-DIGITAL-PLUS.jpg" group-title="TAMIL MAC 2",TAM - RAJ DIGITAL PLUS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281604&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-MUSIC.jpg" group-title="TAMIL MAC 2",TAM - RAJ MUSIX
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281605&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-NEWS.jpeg" group-title="TAMIL MAC 2",TAM - RAJ NEWS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281606&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/RAJ-TV.png" group-title="TAMIL MAC 2",TAM - RAJ TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281607&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SAHANA-TV.jpeg" group-title="TAMIL MAC 2",TAM - SAHANA TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281608&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SATHIYAM-TV.jpeg" group-title="TAMIL MAC 2",TAM - SATHIYAM TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281610&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-BBC-EARTH-HD.png" group-title="TAMIL MAC 2",TAM - SONY BBC EARTH UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281611&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/SONY-YAY.jpg" group-title="TAMIL MAC 2",TAM - SONY YAY
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281612&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TAMILAN-TV.jpeg" group-title="TAMIL MAC 2",TAM - TAMILAN TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281613&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TATA-SKY.png" group-title="TAMIL MAC 2",TAM - TATA SKY TAMIL CINEMA
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281614&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/THANTHI-TV.png" group-title="TAMIL MAC 2",TAM - THANTHI TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281615&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TUNE-6.png" group-title="TAMIL MAC 2",TAM - TUNE 6
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281616&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/TVI-HD.png" group-title="TAMIL MAC 2",TAM - TVI UHD
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281617&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VALICHAM-PLUS.png" group-title="TAMIL MAC 2",TAM - VALICHAM PLUS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281618&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VANDHAR-TV.jpeg" group-title="TAMIL MAC 2",TAM - VANDHAR TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281619&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VASANTH-TV.png" group-title="TAMIL MAC 2",TAM - VASANTH TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281620&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/VIJAY-SUPER.jpg" group-title="TAMIL MAC 2",TAM - VIJAY SUPER
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281621&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-THIRAI.png" group-title="TAMIL MAC 2",TAM - ZEE THIRAI
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281623&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/AASEERVATHAM.png" group-title="TAMIL MAC 2",TAM - AASEERVATHAM
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834535&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MALAI-MURASU-SEITHIKAL.jpg" group-title="TAMIL MAC 2",TAM - MALAI MURASU SEITHIKAL
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834534&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MK-TUNES.png" group-title="TAMIL MAC 2",TAM - MK TUNES
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834532&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PUTHIYA-THALAIMURAI.png" group-title="TAMIL MAC 2",TAM - PUTHIYA THALAIMURAI
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834531&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SHALINI-TV.png" group-title="TAMIL MAC 2",TAM - SHALINI TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834529&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/MALAR-TV.png" group-title="TAMIL MAC 2",TAM - MALAR TV
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834528&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HUNGAMA-KIDS.png" group-title="TAMIL MAC 2",TAM - HUNGAMA
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834527&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HUNGAMA-KIDS.png" group-title="TAMIL MAC 2",TAM - HUNGAMA KIDS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834525&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CINEMA-TAMIL.png" group-title="TAMIL MAC 2",TAM - CINEMA TAMIL
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834523&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HOLLYWOOD-LOCAL.png" group-title="TAMIL MAC 2",TAM - HOLLYWOOD LOCAL
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834522&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/VIJAY-MUSIC.png" group-title="TAMIL MAC 2",TAM - VIJAY MUSIC
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=834521&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/WIN-NEWS.jpeg" group-title="TAMIL MAC 2",TAM - WIN NEWS
+http://sbhgoldpro.org:80/play/live.php?mac=00:1A:79:1B:A5:64&stream=281622&extension=ts
