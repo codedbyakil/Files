@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/PUTHIYA THALAIMURAI.png" group-title="TAMIL MAC",┃TM┃ PUTHIYA THALAIMURAI
-http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=865000&extension=ts
+https://main.light-ott.net:80/play/live.php?mac=00:1A:79:18:18:3D&stream=734186&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ADHTIYA TV.png" group-title="TAMIL MAC",┃TM┃ ADHTIYA TV
 http://main.light-ott.net:80/play/live.php?mac=00%3A1A%3A79%3A18%3A18%3A3D&stream=908551&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/TAMIL/ANGEL TV HD.png" group-title="TAMIL MAC",┃TM┃ ANGEL TV HD
